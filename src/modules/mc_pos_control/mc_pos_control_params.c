@@ -661,7 +661,7 @@ PARAM_DEFINE_FLOAT(MPC_TKO_RAMP_T, 0.4f);
  * Manual-Position control sub-mode.
  *
  * The supported sub-modes are:
- * 0 Default position control where sticks map to position/velocity directly. Maximum speeds
+ * 0 Default position control where sticks map to position/velocity directly.  Maximum speeds
  * 	 is MPC_VEL_MANUAL.
  * 1 Smooth position control where setpoints are adjusted based on acceleration limits
  * 	 and jerk limits.
